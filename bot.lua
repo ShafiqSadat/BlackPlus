@@ -3,7 +3,7 @@ redis = (loadfile "lua-redis.lua")()
 database = Redis.connect('127.0.0.1', 6379)
 chats = {}
 day = 86400
-bot_id = 196913743 -- Your Bot USER_ID
+bot_id = 257627103 -- Your Bot USER_ID
 sudo_users = {113566842,65761134--[[YOUE ID :|]]}
   -----------------------------------------------------------------------------------------------
                                      -- start functions --
